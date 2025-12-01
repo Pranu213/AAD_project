@@ -1,0 +1,43 @@
+10
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+29
+A B
+A C
+A D
+A E
+A F
+B C
+B D
+B G
+B H
+C D
+C E
+C I
+D E
+D F
+D J
+E F
+E G
+F G
+F H
+G H
+G I
+H I
+H J
+I J
+A G
+B E
+C F
+D H
+E I
+yes
+1
